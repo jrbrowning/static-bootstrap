@@ -1,0 +1,28 @@
+{
+  "name": "static-bootstrap",
+  "version": "1.0.0",
+  "description": "Static site using bootstrap 4.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrbrowning/static-site.git"
+  },
+  "author": "jrbrowning",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "file:node_modules/jquery",
+    "popper.js": "^1.12.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
