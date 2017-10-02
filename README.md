@@ -1,4 +1,8 @@
-Unmet dependency, may be needed:  
+This repo is for a simple bootstrap website starter.  
 
-npm install popper.js --save
-npm install jquery --save 
+Contents:
+bootstrap 4.0 and jquery
+
+Styling using Sass
+
+gulp task runner.  browser-sync and gulp-sass
